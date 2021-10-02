@@ -1,6 +1,4 @@
 # Overview
-
-{Important!  Do not say in this section that this is college assignment.  Talk about what you are trying to accomplish as a software engineer to further your learning.}
 The goal of creating this game was to teach myself how to use the Unity Engine and use it as a tool to teach myself any future idea's I want to visualize or create simply for fun. 
 
 Stratego is a game of guessing your enemy, defending your flag through your own strategy and conquring the enemy's flag.
@@ -9,12 +7,15 @@ to carry around the actual board.
 
 My next goal is to add multiplayer over a network, that way it would be more fun and smooth for each player, plus, long distance gameplay would be super fun
 
-[Software Demo Video](http://youtube.link.goes.here)
+I am still figuring out how to add the files in a smooth transition that would allow anyone to open the Unity project and edit it for their own use and modify,
+but until then, I just uploaded the scripts and the exported project. Reach out to me for any further information
+
+[Software Demo Video](https://youtu.be/I9-msBtis0k)
 
 # Development Environment
 
-Unity Game Engine
-Visual Studio - C#
+* Unity Game Engine
+* Visual Studio - C#
 
 # Useful Websites
 
