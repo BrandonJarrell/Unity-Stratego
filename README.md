@@ -27,3 +27,5 @@ but until then, I just uploaded the scripts and the exported project. Reach out 
 * Item 1: Add a time delay when combat is in progress or switching players
 * Item 2: Improve the UI and add a main menu for when I add multiplayer
 * Item 3: Add a system to allowing the player to "mark" the enemy tile and let them guess the piece's value
+
+[Image1](docs/Screenshot (315).png)
