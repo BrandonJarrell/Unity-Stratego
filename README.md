@@ -29,3 +29,5 @@ but until then, I just uploaded the scripts and the exported project. Reach out 
 * Item 3: Add a system to allowing the player to "mark" the enemy tile and let them guess the piece's value
 
 ![Image of Game](https://github.com/KoddakJrell/Stratego/blob/main/Screenshot%20(315).png)
+![Image of Game](https://github.com/KoddakJrell/Stratego/blob/main/Screenshot%20(316).png)
+![Image of Game](https://github.com/KoddakJrell/Stratego/blob/main/Screenshot%20(317).png)
